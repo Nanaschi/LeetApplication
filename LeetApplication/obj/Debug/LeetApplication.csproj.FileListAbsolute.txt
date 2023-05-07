@@ -1,0 +1,7 @@
+C:\Users\Daniel\RiderProjects\LeetApplication\LeetApplication\bin\Debug\LeetApplication.exe
+C:\Users\Daniel\RiderProjects\LeetApplication\LeetApplication\bin\Debug\LeetApplication.pdb
+C:\Users\Daniel\RiderProjects\LeetApplication\LeetApplication\obj\Debug\LeetApplication.csproj.AssemblyReference.cache
+C:\Users\Daniel\RiderProjects\LeetApplication\LeetApplication\obj\Debug\LeetApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\RiderProjects\LeetApplication\LeetApplication\obj\Debug\LeetApplication.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\RiderProjects\LeetApplication\LeetApplication\obj\Debug\LeetApplication.exe
+C:\Users\Daniel\RiderProjects\LeetApplication\LeetApplication\obj\Debug\LeetApplication.pdb
